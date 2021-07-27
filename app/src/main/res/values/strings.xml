@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyOwnProject</string>
+    <string name="more">More...</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="Name">Nama Teman</string>
+    <string name="Detail">Deskripsi</string>
+    <string name="nama_dev">Muhammad Farishanif Widyono</string>
+    <string name="judul_penje1">Mengenai Saya</string>
+    <string name="penje_1">Saya salah satu mahasiswa yang sedang mengikuti kegiatan ID Camp indosat ooredo, saya sangat tertarik pada programing mau itu website,android,atau untuk windows. Karena itu, saya sedikit kesulitan dalam menentukkan pilihan pelajaran dari ID Camp indosat ooredo.</string>
+    <string name="judul_penje2">Mengenai Aplikasi ini</string>
+    <string name="penje_2">Aplikasi ini saya buat untuk memenuhi tugas submission dari kelas Dicoding dengan syarat-syarat tertentu yang harus terdapat pada aplikasi ini.</string>
+    <string name="Deskripsi2">farismfw@gmail.com</string>
+    <string name="Deskripsi1">Email Dicoding:</string>
+</resources>
